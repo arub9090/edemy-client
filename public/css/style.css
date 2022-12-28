@@ -1,0 +1,17 @@
+.square {
+  border-radius: 0px;
+}
+
+.jumbotron {
+  color: white;
+  text-transform: capitalize;
+  background: rgb(75,0,130);
+  background: -moz-linear-gradient(122deg, rgba(75,0,130,1) 5%, rgba(70,11,76,1) 44%);
+  background: -webkit-linear-gradient(122deg, rgba(75,0,130,1) 5%, rgba(70,11,76,1) 44%);
+  background: linear-gradient(122deg, rgba(75,0,130,1) 5%, rgba(70,11,76,1) 44%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#4b0082",endColorstr="#460b4c",GradientType=1);
+}
+
+.pointer {
+  cursor: pointer;
+}
