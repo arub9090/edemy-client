@@ -3,7 +3,6 @@ import authReducer from "../reducer/authReducer";
 import axios from "axios";
 import { useRouter } from "next/router";
 
-
 // initial state
 const initialState = {
   user: null,
