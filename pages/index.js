@@ -1,11 +1,10 @@
 import axios from "axios";
-import { useEffect, useState } from "react";
 import CourseCard from "../component/Cards/CourseCard";
 
 function index({ courses }) {
   return (
     <>
-      <h1 className="jumbotron bg-primary squre text-center display-4">
+      <h1 className="jumbotron text-center bg-primary square">
         Welcome to Edemy!
       </h1>
       <div className="container-fluid">
